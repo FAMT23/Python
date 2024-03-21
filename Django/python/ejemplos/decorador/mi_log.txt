@@ -1,0 +1,2 @@
+07/12/16  17:02:52  operación: grabar Parámetros: admin 1234
+07/12/16  17:02:52  operación: borrar Parámetros: admin

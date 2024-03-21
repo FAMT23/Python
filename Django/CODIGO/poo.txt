@@ -1,0 +1,49 @@
+Personas:
+Clase:
+características: peso, altura, color de pelo, color de ojos --> atributos
+acciones:
+comer(), correr(), andar(), dormir() --> métodos (funciones)
+def comer(self):
+	print(self.nombre,'esta comiendo')
+
+persona1(peso=80 ,altura=1.88, pelo="moreno", ojos="marrones") --> objeto o instancia
+persona1.comer()
+
+1 clase --> cientos de objetos
+self el objeto en curso
+
+Constructor de la clase: __init__(self,...)
+
+#### Sobrecarga de funciones especiales y operadores:
+__str__()  --> str()
+__del__()  --> del()
+__len__()  --> len()
+__repr__()  --> repr()
+
+#####################################################################################
+
+Relaciones entre clases:
+herencia: Cuando tengamos clases que comparten información.
+empleado
+	jefe de proyecto
+	administrativo
+	analista
+
+composición: Cuando un objeto complejo se desglosa en partes que objetos de otras clases
+Coche
+	Motor: potencia, tipo de combus.
+	Chasis
+	Ruedas
+Clases que tienen att. que pertenecen a otras clases
+
+asociación:
+coche
+surtidorGaso.
+coche.repostar(surtidor)
+
+#####################################################################################
+sobrecarga de operadores: Relacionales y Aritméticos
+
+
+
+

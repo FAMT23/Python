@@ -1,0 +1,6 @@
+django 4.2.3
+
+x.y.z
+z: bugs
+y: nuevas funcionalidades
+x: cambios profundos (core)
